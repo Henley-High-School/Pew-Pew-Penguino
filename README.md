@@ -16,3 +16,5 @@ Milestone 4 - Game Media (Game Advertising) is completed and made.
 Milestone 5 - Game is ready to publish and game is finalized.
 
 Milestone 6 - We launch the game?
+
+# Want to see & download assets made by the students behind Pew Pew Penguino? Visit https://github.com/BennyGaming635/pew-pew-penguino-assets to see them!
