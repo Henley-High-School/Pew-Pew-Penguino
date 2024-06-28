@@ -1,5 +1,5 @@
 # Pew-Pew-Penguino
-![Penguin](https://github.com/your_username/pew-pew-penguino/raw/main/penguin.png))
+![Penguin](https://github.com/bennygaming635/pew-pew-penguino/raw/main/penguin.png))
 The Offical Repository on Github for the game 'Pew Pew Penguino'.
 
 This repository will be updated when files for Pew Pew Penguino are avaliable and aren't needed in Microsoft Teams.
