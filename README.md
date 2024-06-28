@@ -1,6 +1,6 @@
 # Pew-Pew-Penguino
 <p align="center">
-  <img src="https://github.com/BennyGaming635/Pew-Pew-Penguino/blob/main/repo%20logo.png" alt="Penguin">
+  <img src="https://github.com/BennyGaming635/Pew-Pew-Penguino/blob/main/repo%20logo.png" alt="Penguin" width="200">
 </p>
 
 The Offical Repository on Github for the game 'Pew Pew Penguino'.
