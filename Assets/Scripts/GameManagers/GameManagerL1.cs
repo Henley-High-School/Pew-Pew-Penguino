@@ -11,14 +11,14 @@ public class GameManager : MonoBehaviour
 
     public GameObject pauseMenu;
     public GameObject controlsScreen;
-    public GameObject chatCanvas;
+
     private bool paused = false;
     
     // Start is called before the first frame update
     void Start()
     {
         pauseMenu.SetActive(false);
-        chatCanvas.SetActive(false);
+       
         
     }
 
@@ -85,4 +85,7 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene("L1.Australia");
     }
+
+
+
 }
