@@ -1,4 +1,4 @@
-# Pew-Pew-Penguino
+# Pew Pew Penguino Offical Repo
 <p align="center">
   <img src="https://github.com/BennyGaming635/Pew-Pew-Penguino/blob/main/repo%20logo.png" alt="Penguin" width="300">
 </p>
