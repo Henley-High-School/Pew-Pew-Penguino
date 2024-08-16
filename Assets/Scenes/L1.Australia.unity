@@ -14,7 +14,7 @@ OcclusionCullingSettings:
 RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 9
-  m_Fog: 1
+  m_Fog: 0
   m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   m_FogMode: 3
   m_FogDensity: 0.005
@@ -3068,7 +3068,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!64 &1785314027
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3150,7 +3150,7 @@ Transform:
   m_GameObject: {fileID: 1785314026}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 500, y: 1.78, z: 500}
+  m_LocalPosition: {x: 500, y: 4, z: 500}
   m_LocalScale: {x: 180, y: 1, z: 180}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4156,7 +4156,7 @@ SceneRoots:
   - {fileID: 1488852153}
   - {fileID: 330585546}
   - {fileID: 1945724303}
-  - {fileID: 1909200606}
   - {fileID: 1609158674}
   - {fileID: 2145838084}
   - {fileID: 1785314030}
+  - {fileID: 1909200606}
