@@ -48,7 +48,7 @@ Material:
     - _Smoothness: 0.122
     - _Speed: 0.7
     m_Colors:
-    - _Albedo: {r: 0.69217557, g: 0.7019608, b: 0.23921569, a: 1}
+    - _Albedo: {r: 0.6979629, g: 0.7019608, b: 0.23921569, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &435260641312756636
 MonoBehaviour:
